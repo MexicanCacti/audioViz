@@ -1,0 +1,12 @@
+# Ignore CMake build directories
+/build/
+
+# Ignore CMake files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+CMakeError.log
+CMakeOutput.log
+
+# Ignore Ninja build files
+.ninja/
